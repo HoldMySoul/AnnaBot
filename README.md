@@ -9,7 +9,7 @@ Originally a AstrakoBot fork, AnnaBot evolved further and was built to be more r
 
 Can be found on telegram as [AnnaBot](https://t.me/Anna_Telegram_Bot).
 
-The Support group can be reached out to at [AnnaBotSupport](https://t.me/annabotsupportgroup), where you can ask for help about [AnnaBot](https://t.me/AnnaBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [AnnaBotSupport](https://t.me/annabotsupportgroup), where you can ask for help about [AnnaBot](https://t.me/Anna_Telegram_Bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [One Punch Updates](https://t.me/OnePunchUpdates) 
 
